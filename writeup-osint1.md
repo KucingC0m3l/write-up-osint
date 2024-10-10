@@ -1,4 +1,4 @@
- # Write-Up: by KucingC0m3l
+# Write-Up: by KucingC0m3l
 
 ## Question 1: RawSEC
 
