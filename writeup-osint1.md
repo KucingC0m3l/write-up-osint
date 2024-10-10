@@ -3,7 +3,7 @@
 ## Question 1: RawSEC
 
 **Question:**  
-*RawSEC aktif dalam mengedalikan acara CTF di seluruh Malaysia. Mereka telah berjaya mengadakan beberapa siri CTF yang telah berlangsung di Utara, Selantan, Sentral dan juga Pantai Timur. Apakah nama CTF paling terbaru diadakan oleh RawSEC dan di manakah acara itu berlangsung?                                                                                                     Format flag: 3108{namactf_namatempat}*
+RawSEC aktif dalam mengedalikan acara CTF di seluruh Malaysia. Mereka telah berjaya mengadakan beberapa siri CTF yang telah berlangsung di Utara, Selantan, Sentral dan juga Pantai Timur. Apakah nama CTF paling terbaru diadakan oleh RawSEC dan di manakah acara itu berlangsung?                                                                                                     Format flag: 3108{namactf_namatempat}
 
 **Answer:**  
 i go to facebook and search about rawSEC and try 1 by 1 the event ctf. In a few minute i found this post and get the flag
@@ -18,7 +18,7 @@ i go to facebook and search about rawSEC and try 1 by 1 the event ctf. In a few 
 ## Question 2: Malayan Union
 
 **Question:**  
-*KAMI BANTAH! KAMI BANTAH!
+KAMI BANTAH! KAMI BANTAH!
 
 Malayan Union perlu dihapuskan! Kami mahu Raja-Raja kami semula! Mesej bergambar ini untuk menyampaikan berita ini kepada pihak atasan!
 
@@ -74,13 +74,13 @@ This challenge give the picture so i use (google search) for this image and i ju
 ## Question 4: Gallery2
 
 **Question:**  
-*Could you find the model of the camera used to take the image in question?  
+Could you find the model of the camera used to take the image in question?  
 
 This question is a follow-up to the previous one. Please refer to the image provided in Question 3.
 
 For example, if the model is Samsung Galaxy S21, the flag should be written as: CTF{Samsung_Galaxy_S21}.
 
-Format Flag: CTF{Model}*
+Format Flag: CTF{Model}
 
 Hint: Use appropriate tools to identify the camera model from the metadata of the image provided. 
 
@@ -96,13 +96,13 @@ the hint mentioned about metadata, so i used fotoforensics - analysis as a tool
 ## Question 5: Gallery3
 
 **Question:**  
-*Which date and time was the photo taken? 
+Which date and time was the photo taken? 
 
 This question is a follow-up to the previous one. Please refer to the image provided in Question 3.
 
 Format Flag: CTF{YYYY-MM-DD_HH:MM:SS}
 
-Note: HH is the hour in 24-hour format, MM is minutes, and SS is seconds.*
+Note: HH is the hour in 24-hour format, MM is minutes, and SS is seconds.
 
 **Answer:**  
 
@@ -116,9 +116,9 @@ Note: HH is the hour in 24-hour format, MM is minutes, and SS is seconds.*
 ## Question 6: Gallery4
 
 **Question:**  
-*Can you find the registration number of the gallery from the image provided in Question 3?  
+Can you find the registration number of the gallery from the image provided in Question 3?  
 
-Flag Format: CTF{Registration-Number}*
+Flag Format: CTF{Registration-Number}
 
 **Answer:**  
 I already know that this image is come from Ilham Gallery. so let me check their sosial media and i just found registration number gallery
