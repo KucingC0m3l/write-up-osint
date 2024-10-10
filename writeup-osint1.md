@@ -46,13 +46,13 @@ so I go to gemini and ask about more information malayan union protest in johor
 ## Question 3: Gallery
 
 **Question:**  
-*Where am I ? 
+Where am I ? 
 
 Spaces in the gallery name should be replaced with underscores (_). For example, if the gallery is named National Art Gallery, the flag should be written as: CTF{National_Art_Gallery}.
 
 Format Flag: CTF{Gallery_Name}
 
-https://drive.google.com/file/d/1aw66UkDVQWr13KBuShpJriacNxZD0ccp/view?usp=sharing*
+https://drive.google.com/file/d/1aw66UkDVQWr13KBuShpJriacNxZD0ccp/view?usp=sharing
 
 **Answer:**  
 
